@@ -9,10 +9,9 @@ File or Directory [file, dir]: file
 File or directory name for search: main. *
 Finding directory: /home/
 
-*********************************************** * ***********
 /home/davit/.local/share/Trash/files/main.py
 /home/davit/Desktop/FileSearch/main.py
-*********************************************** * ***********
+
 Process compileted
 
 In this example,the program finds all files that start with main in the entire /home/ directory
