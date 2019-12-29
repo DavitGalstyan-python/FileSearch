@@ -17,3 +17,5 @@ if platform == "linux" or platform == "linux2":
     print("Process Compileted")
   else:
       print("ERROR: application must be run as root")
+else:
+    print("Necessarily Linux")
